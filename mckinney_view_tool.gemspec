@@ -9,10 +9,10 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Dan McKinney"]
   spec.email         = ["3dhdaniel@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
-
+  spec.summary       = %q{Various view specific methods for my applications}
+  spec.description   = %q{To provide and generate HTML data for Rails applications}
+  spec.homepage      = "https://github.com/Dmckinney821/mckinney_view_tool"
+  spec.license       = "MIT"
   
 
   # Specify which files should be added to the gem when it is released.

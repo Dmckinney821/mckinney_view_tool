@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+McKinneyViewTool::Renderer.copyright 'Dan McKinney', 'All rights reserved'
+```
 
 ## Development
 
